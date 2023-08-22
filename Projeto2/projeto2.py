@@ -1,3 +1,5 @@
+#Guessing game where the computer guesses the number the user thought
+
 import random
 
 def guess(x):
